@@ -1,6 +1,7 @@
 ![For hire](https://img.shields.io/badge/Available%20for%20hire-Yes-blue)
 ![Contactable](https://img.shields.io/badge/Contactable-Absolutely-red)
 ![Last updated](https://img.shields.io/badge/Last%20updated-March%202023-green)
+![Currently working on](https://img.shields.io/badge/Currently%20working%20on-Ragnarok-blueviolet)
 
 ## Ryan McHugh
 
@@ -29,15 +30,33 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**NEC Software Solutions** (October 2021 to Current)  
+_Senior Support Consultant_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Providing technical support to housing associations
+across the UK and Canada.
+- Writing T-SQL queries to resolve problems with the database and the software frontend.
+- Liaising with customers to organise software upgrades and escalating bugs to the development team.
+- Working in an agile process with colleagues and customers to ensure timely resolution of cases. •Office 365 champion to facilitate the company wide migration from Google to Office 365. Testing various Microsoft products to ensure they meet company use and providing training materials and assistance to colleagues to ensure a smooth transition.
+- Working in a .NET environment.
+- Working with JIRA to log bugs and check status on development work.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Aareon UK** (January 2021 to October 2021)  
+_Digital Support Analyst_
 
-- Any experience relevent to software development
+- Provided technical support to various housing associations in a .NET environment.
+- Configuration of SQL databases to aid in product performance.
+- Using SQL queries to resolve problems with the database that couldn’t be resolved from the software frontend.
+- Data recovery via the use of SQL backups.
+
+**Insignia Medical Systems** (March 2019 to January 2021)
+_Application Support Engineer_
+
+- Performed database management and optimisation.
+- Using T-SQL queries to resolve issues related to the bespoke software database.
+- Provided data for managers to assist with reporting.
+- Working with both Linux and Windows servers.
+- Writing scripts in BASH/PHP to automate upgrade processes.
 
 ## Skills
 
