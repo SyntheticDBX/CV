@@ -1,5 +1,6 @@
 ![For hire](https://img.shields.io/badge/Available%20for%20hire-Yes-blue)
-!
+![Contactable](https://img.shields.io/badge/Contactable-Absolutely-red)
+
 
 ## Ryan McHugh
 
