@@ -6,6 +6,18 @@
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
+## Links
+<table>
+  <tr>
+    <td align="center">
+    <a href="https://www.linkedin.com/in/ryan-s-mchugh/"><img src="images/linkedin.png"></a>
+    </td>
+    <td align="center">
+    <a href="https://ryanmchugh.netlify.app/"><img src="images/portfolio_logo.png"></a>
+    </td>
+  </tr>
+</table>
+
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
