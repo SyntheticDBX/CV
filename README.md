@@ -87,6 +87,32 @@ _Application Support Engineer_
     <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" width="100" alt="Express badge image">
     </td>
   </tr>
+  <tr>
+    <td align="center">
+    <img src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" width="100" alt="Jest badge image">
+    </td>
+    <td align="center">
+    <img src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png" width="100" alt="Ruby badge image">
+    </td>
+    <td align="center">
+    <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" width="100" alt="PostgreSQL badge image">
+    </td>
+    <td align="center">
+    <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" width="100" alt="MongoDB badge image">
+    </td>
+    <td align="center">
+    <img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" width="100" alt="Oracle badge image">
+    </td>
+    <td align="center">
+    <img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" width="100" alt="Cypress badge image">
+    </td>
+    <td align="center">
+    <img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" width="100" alt="Jira badge image">
+    </td>
+    <td align="center">
+    <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="100" alt="Git badge image">
+    </td>
+  </tr>
 </table>
 
 ## Skills
