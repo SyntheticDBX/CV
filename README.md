@@ -22,8 +22,8 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Pokémon Picker** | A webapp using the PokéAPI to fetch data. Allows users to login and create their own teams and save it to their profile. | React, Express, Node, MongoDB |
+| **Enaidle** | Full stack application aimed at connecting charities and organisations to volunteers who want to help. Separate accounts for users and charities/orgs. | React, Express, Node, MongoDB |
 
 ## Work Experience
 
