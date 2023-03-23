@@ -89,6 +89,32 @@ _Application Support Engineer_
   </tr>
   <tr>
     <td align="center">
+      HTML
+    </td>
+    <td align="center">
+      CSS
+    </td>
+    <td align="center">
+      Bootstrap
+    </td>
+    <td align="center">
+      JavaScript
+    </td>
+    <td align="center">
+      React
+    </td>
+    <td align="center">
+      TypeScript
+    </td>
+    <td align="center">
+      Node.js
+    </td>
+    <td align="center">
+      Express
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
     <img src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" width="100" alt="Jest badge image">
     </td>
     <td align="center">
@@ -111,6 +137,32 @@ _Application Support Engineer_
     </td>
     <td align="center">
     <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="100" alt="Git badge image">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      Jest
+    </td>
+    <td align="center">
+      Ruby
+    </td>
+    <td align="center">
+      PostgreSQL
+    </td>
+    <td align="center">
+      MongoDB
+    </td>
+    <td align="center">
+      Oracle
+    </td>
+    <td align="center">
+      Cypress
+    </td>
+    <td align="center">
+      Jira
+    </td>
+    <td align="center">
+      Git
     </td>
   </tr>
 </table>
