@@ -58,6 +58,13 @@ _Application Support Engineer_
 - Working with both Linux and Windows servers.
 - Writing scripts in BASH/PHP to automate upgrade processes.
 
+
+## Tech Stack
+<table>
+  <tr>
+    <td align="center">
+    <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="100" alt="HTML badge image">
+
 ## Skills
 
 Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
