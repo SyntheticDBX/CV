@@ -10,10 +10,10 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 <table>
   <tr>
     <td align="center">
-    <a href="https://www.linkedin.com/in/ryan-s-mchugh/"><img src="images/linkedin.png"></a>
+    <a href="https://www.linkedin.com/in/ryan-s-mchugh/"><img src="images/linkedin.png" width="100" alt="linkedin logo"></a>
     </td>
     <td align="center">
-    <a href="https://ryanmchugh.netlify.app/"><img src="images/portfolio_logo.png"></a>
+    <a href="https://ryanmchugh.netlify.app/"><img src="images/portfolio_logo.png" width="100" alt="portfolio logo"></a>
     </td>
   </tr>
 </table>
