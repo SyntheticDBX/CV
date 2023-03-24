@@ -17,6 +17,14 @@ A sentence about who and what you are. Then a sentence about what you've achieve
     <a href="https://ryanmchugh.netlify.app/"><img src="images/portfolio_logo.png" width="100" alt="portfolio logo"></a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      LinkedIn
+    </td>
+    <td align="center">
+      Portfolio
+    </td>
+  </tr>
 </table>
 
 ## Projects
