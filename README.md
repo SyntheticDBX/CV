@@ -3,7 +3,7 @@
 ![Last updated](https://img.shields.io/badge/Last%20updated-March%202023-green)
 ![Currently working on](https://img.shields.io/badge/Currently%20working%20on-Ragnarok-blueviolet)
 
-## Ryan McHugh
+# Ryan McHugh
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
@@ -169,24 +169,20 @@ _Application Support Engineer_
 
 ## Skills
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
+#### Teamwork and collaboration
+- Office 365 Champion for migration from Google to Microsoft. Helped document and create training material for colleagues in preparation for the migration. Helped colleagues with any issues once migration was completed.
+- Encouraged knowledge sharing and in-house training sessions to build team members abilities. Ranged from small workshops on SQL querying to general support processes.
+- Mentored more junior colleagues, providing technical assistance or guidance when solving issues.
 
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
+#### Fast learner, effective timekeeping skills, and experienced project management
+- Built a full stack application using the MERN stack a few days after graduating from Makers Academy. Before the 12 week bootcamp I had no prior experience of JavaScript or React.
+- Balanced working a full time job, an intensive 12 week bootcamp and studied for my degree in Computing and IT that I'm currently doing with the Open University.
+- Led standups and retros, utilising agile methods and practices to help build and deploy an MVP. Iterating on this with new features and fixing bugs. Encouraged colleagues to use JIRA for effecting sprint and ticketing management.
 
-
-Here's an example
-
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
-
-#### Another skill
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Another skill
+#### Analytical thinker and problem solver
+- Removed blocker during Makers group project. Unable to get previous code from project before to work when creating new project. Organised a solution around using customer hooks and context in React.
+- Saw business requirement for reporting on support statistics. Created SQL queries to gather this data and present it to management. They were then able to use CRM tools to use this data for reporting.
+- Peer reviewed fellow students code during modules on Python. Suggested the use of recursion and gave example of how this would work for their program.
 
 
 ## Education
