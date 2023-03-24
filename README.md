@@ -27,6 +27,8 @@ A sentence about who and what you are. Then a sentence about what you've achieve
   </tr>
 </table>
 
+[Projects](#Projects) [Work Experience](#Work Experience) [Tech Stack](#Tech Stack) [Skills](#Skills) [Education](#Education) [Hobbies](#Hobbies)
+
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
