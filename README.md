@@ -195,25 +195,25 @@ _Application Support Engineer_
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### University of Helsinki (March 2023 to Present)
+- Full Stack open web development qualification. Currently studying.
+- Working with React, TypeScript, Redux, Express, Node.js, REST APIs, GraphQL and MongoDB.
 
-#### Your University / College (start_date to end_date)
+#### Makers Academy (November 2022 to March 2023)
+- Fundamentals of Object-Oriented Programming, Test Driven Development (TDD), Model View Controller (MVC) design patterns.
+- Database schema design with MongoDB and PostgreSQL.
+- Agile principles, pair programming, stand-ups, retros, sprint planning and ticket management.
+- Web frameworks, MVP and version control to create full stack applications.
+- Workflow management with Git and Github, code reviews, pull requests and merges.
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
 
-#### Any other qualifications
+#### Open University (October 2021 to Present)
 
-That in some arguable way make you a better software developer or well-rounded person
+- BSc in Computing and IT, specialising in Computer Science.
+- 2nd year studies commencing in October 2023. Modules include Data Structures and Algorithims, Object-Oriented Programming in Java, Cyber Security and Web Technologies.
+
+#### Other Qualifications
+- JavaScript Algorithims and Data Structures - FreeCodeCamp
+- AWS Certified Cloud Practitioner - soon
 
 ## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
