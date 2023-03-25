@@ -3,9 +3,11 @@
 ![Last updated](https://img.shields.io/badge/Last%20updated-March%202023-green)
 ![Currently working on](https://img.shields.io/badge/Currently%20working%20on-Ragnarok-blueviolet)
 
-# Ryan McHugh
+# Ryan McHugh 😎
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+With 10 years of experience in application and infrastructure support, I am a **Full Stack Software Developer** with a deep understanding of the software development life cycle and have expertise in troubleshooting, debugging and resolving technical issues. My experience in these areas has given me a unique perspective on software development, with a strong focus on user experience and designing software with the end user in mind.
+
+Ultimately my goal is to create high-quality, reliable software that exceeds users expectations, making me a strong candidate for any development team.
 
 <div align="center">
 <table>
@@ -31,7 +33,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 </div>
 
-## Projects
+## Projects 💻
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
@@ -40,7 +42,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 | **Enaidle** | Makers Academy final project. Full stack application aimed at connecting charities and organisations to volunteers who want to help. Separate accounts for users and charities/orgs. | React, Express, Node.js, MongoDB, Jest, Cypress |
 | **MakersBNB** | Makers Academy group project, tasked with creating an application similar to Airbnb. Allows guests to see spaces available to rent. Home owners are able to put their place up for guests to stay over a period of time. | Ruby, Sinatra, RSpec, PostgreSQL |
 
-## Work Experience
+## Work Experience 📈
 
 **NEC Software Solutions** (October 2021 to Current)  
 _Senior Support Consultant_
@@ -71,7 +73,7 @@ _Application Support Engineer_
 - Writing scripts in BASH/PHP to automate upgrade processes.
 
 
-## Tech Stack
+## Tech Stack 🚀
 <table>
   <tr>
     <td align="center">
@@ -179,7 +181,7 @@ _Application Support Engineer_
   </tr>
 </table>
 
-## Skills
+## Skills 🛠
 
 #### Teamwork and collaboration
 - Office 365 Champion for migration from Google to Microsoft. Helped document and create training material for colleagues in preparation for the migration. Helped colleagues with any issues once migration was completed.
@@ -197,7 +199,7 @@ _Application Support Engineer_
 - Peer reviewed fellow students code during modules on Python. Suggested the use of recursion and gave example of how this would work for their program.
 
 
-## Education
+## Education 📚
 
 #### University of Helsinki (March 2023 to Present)
 - Full Stack open web development qualification. Currently studying.
@@ -220,4 +222,4 @@ _Application Support Engineer_
 - JavaScript Algorithims and Data Structures - FreeCodeCamp
 - AWS Certified Cloud Practitioner - soon
 
-## Hobbies
+## Hobbies 🎮
