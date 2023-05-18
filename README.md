@@ -44,10 +44,11 @@ Ultimately my goal is to create high-quality, reliable software that exceeds use
 
 ## 📈 Work Experience 
 
-**Adaptive Web Ltd** (May 2023 to Current)
+**Adaptive Web Ltd** (May 2023 to Current)  
 _DevOps Engineer_
 
-- Managing DevOps projects with JIRA utilising Kanban boards. •Automation of common server tasks using Ansible.
+- Managing DevOps projects with JIRA utilising Kanban boards. 
+- Automation of common server tasks using Ansible.
 - Ensuring remaining AWS infrastructure is kept as Terraform and Ansible code in Github.
 - Upkeep of automated testing with Behat for PHP code.
 - Managing the CI/CD workflow for Pantheon sites in Github, using branching rather than pull requests to manage multidevs, better suiting the needs of the development team.
@@ -72,7 +73,7 @@ _Digital Support Analyst_
 - Using SQL queries to resolve problems with the database that couldn’t be resolved from the software frontend.
 - Data recovery via the use of SQL backups.
 
-**Insignia Medical Systems** (March 2019 to January 2021)
+**Insignia Medical Systems** (March 2019 to January 2021)  
 _Application Support Engineer_
 
 - Performed database management and optimisation.
