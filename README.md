@@ -44,7 +44,15 @@ Ultimately my goal is to create high-quality, reliable software that exceeds use
 
 ## 📈 Work Experience 
 
-**NEC Software Solutions** (October 2021 to Current)  
+**Adaptive Web Ltd** (May 2023 to Current)
+_DevOps Engineer_
+- Managing DevOps projects with JIRA utilising Kanban boards. •Automation of common server tasks using Ansible.
+- Ensuring remaining AWS infrastructure is kept as Terraform and Ansible code in Github.
+- Upkeep of automated testing with Behat for PHP code.
+- Managing the CI/CD workflow for Pantheon sites in Github, using branching rather than pull requests to manage multidevs, better suiting the needs of the development team.
+- Maintaining Ansible modules used to standardise server deployments across environments, as well as playbooks to codify manual tasks.
+
+**NEC Software Solutions** (October 2021 to May 2023)  
 _Senior Support Consultant_
 
 - Providing technical support to housing associations
