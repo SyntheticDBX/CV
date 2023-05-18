@@ -46,6 +46,7 @@ Ultimately my goal is to create high-quality, reliable software that exceeds use
 
 **Adaptive Web Ltd** (May 2023 to Current)
 _DevOps Engineer_
+
 - Managing DevOps projects with JIRA utilising Kanban boards. •Automation of common server tasks using Ansible.
 - Ensuring remaining AWS infrastructure is kept as Terraform and Ansible code in Github.
 - Upkeep of automated testing with Behat for PHP code.
